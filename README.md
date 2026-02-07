@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <h2>🧪 GitHub Stats</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=danieldevcode&theme=transparent&mode=weekly" 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=danielcortesdev&theme=transparent&mode=weekly" 
     alt="GitHub Streak" 
   />
 </div>  
